@@ -1,11 +1,14 @@
-![Muzaffars's Github Stats](https://github-readme-stats.vercel.app/api?username=muzaffarshaikh&show_icons=true&theme=radical)
+### Hi there 👋
 
 ![Muzaffars's Github Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muzaffarshaikh&layout=compact&theme=radical)
 
-<!-- 
+![Muzaffars's Github Stats](https://github-readme-stats.vercel.app/api?username=muzaffarshaikh&show_icons=true&theme=radical)
+
+<!--
 **muzaffarshaikh/muzaffarshaikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
