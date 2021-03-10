@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muzaffarshaikh)](https://github.com/muzaffarshaikh/github-readme-stats)
+<br>
 ![Muzaffar's github stats](https://github-readme-stats.vercel.app/api?username=muzaffarshaikh)
 
 
