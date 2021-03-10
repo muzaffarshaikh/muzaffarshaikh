@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 📫 You can mail me at mzfrxec@gmail.com
-My social links :
-[website]: https://muzaffarshaikh.github.io
-[twitter]: https://twitter.com/_muzaffarshaikh
-[facebook]: https://www.facebook.com/muzaffar.shaikh.10004/
-[instagram]: https://www.instagram.com/_muzaffarshaikh
-[linkedin]: https://www.linkedin.com/in/muzaffarshaikh
+- My social links :
+- [website]: https://muzaffarshaikh.github.io
+- [twitter]: https://twitter.com/_muzaffarshaikh
+- [facebook]: https://www.facebook.com/muzaffar.shaikh.10004/
+- [instagram]: https://www.instagram.com/_muzaffarshaikh
+- [linkedin]: https://www.linkedin.com/in/muzaffarshaikh
 
 ![Muzaffars's Github Stats](https://github-readme-stats.vercel.app/api?username=muzaffarshaikh&show_icons=true&theme=dark)
 
