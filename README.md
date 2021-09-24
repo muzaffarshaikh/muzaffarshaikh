@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I am Muzaffar. A Software Developer by profession from India.  
-I am currently working as Junior Software Developer, mainly focused in Back-End Development.  
+Software Developer by profession from India.  
+Currently working as a Junior Software Developer, mainly focused in Back-End Development.  
 
-<h3>Things I worked with...</h3>
+<h3>Things I have worked with...</h3>
 
 ![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=)
 ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=)
