@@ -66,6 +66,7 @@ Currently working as a Junior Software Developer, mainly focused in Back-End Dev
 ### **Github Stats**
 | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzaffarshaikh&layout=compact&theme=radical" alt="Muzaffar's Github Stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=muzaffarshaikh&show_icons=true&theme=radical" /></a> |
 | ------------- | ------------- |
+#### **NOTE: Most used languages do not depict my skills. It's a Github metric based on most used language code in my repositories.**
 
 <br>
 
