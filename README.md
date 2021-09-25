@@ -51,11 +51,18 @@ Currently working as a Junior Software Developer, mainly focused in Back-End Dev
 ![Eclipse+IDE](https://img.shields.io/static/v1?style=for-the-badge&message=Eclipse+IDE&color=2C2255&logo=Eclipse+IDE&logoColor=FFFFFF&label=)
 ![Blender](https://img.shields.io/static/v1?style=for-the-badge&message=Blender&color=F5792A&logo=Blender&logoColor=FFFFFF&label=)
 ![Android Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Android+Studio&color=3DDC84&logo=Android+Studio&logoColor=FFFFFF&label=)
-![semantic-release](https://img.shields.io/static/v1?style=for-the-badge&message=semantic-release&color=494949&logo=semantic-release&logoColor=FFFFFF&label=)
+![semantic-release](https://img.shields.io/static/v1?style=for-the-badge&message=semantic-release&color=494949&logo=semantic-release&logoColor=FFFFFF&label=)  
+<br>
+
+🔗 &nbsp;**Github Stats**
+| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzaffarshaikh&layout=compact&theme=radical" alt="Muzaffar's Github Stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=muzaffarshaikh&show_icons=true&theme=radical" /></a> |
+| ------------- | ------------- |
+
+<br>
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
-<a href="https://twitter.com/_muzaffarshaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/muzaffarshaikh/muzaffarshaikh/main/social-icons/twitter.svg" alt="_muzaffarshaikh" height="30" width="40" /></a>
+<a href="https://www.twitter.com/_muzaffarshaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/muzaffarshaikh/muzaffarshaikh/main/social-icons/twitter.svg" alt="_muzaffarshaikh" height="30" width="40" /></a>
 <a href="https://www.facebook.com/muzaffar.shaikh.10004" target="blank"><img align="center" src="https://raw.githubusercontent.com/muzaffarshaikh/muzaffarshaikh/main/social-icons/facebook.svg" alt="_muzaffarshaikh" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/muzaffarshaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/muzaffarshaikh/muzaffarshaikh/main/social-icons/linkedin.svg" alt="muzaffarshaikh" height="30" width="40" /></a>
 <a href="https://www.stackoverflow.com/users/12059893/muzaffar-shaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/muzaffarshaikh/muzaffarshaikh/main/social-icons/stack-overflow.svg" alt="12059893" height="30" width="40" /></a>
