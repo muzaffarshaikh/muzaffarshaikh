@@ -1,9 +1,18 @@
-### Hi there 👋
+<img src="assets\svg\hello-developers.svg">
 
-A Developer by profession from 🇮🇳 India.  
+A Software Developer by profession, from India.   
 Currently working as a Junior Software Developer, mainly focused in Back-End Development.  
+<br>
 
-<h3>Things I have worked with...</h3>
+### **Qualifications**
+
+* ***BSc. CS*** - Bachelor's in Computer Science.
+* ***MSc. IT*** - Master's in Information Technology.
+
+<br>
+
+### **Things I have worked with...**
+<br>
 
 ![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=)
 ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=)
@@ -54,18 +63,21 @@ Currently working as a Junior Software Developer, mainly focused in Back-End Dev
 ![semantic-release](https://img.shields.io/static/v1?style=for-the-badge&message=semantic-release&color=494949&logo=semantic-release&logoColor=FFFFFF&label=)  
 <br>
 
-🔗 &nbsp;**Github Stats**
+### **Github Stats**
 | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzaffarshaikh&layout=compact&theme=radical" alt="Muzaffar's Github Stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=muzaffarshaikh&show_icons=true&theme=radical" /></a> |
 | ------------- | ------------- |
 
 <br>
 
-🔗 &nbsp;**Connect with me**
+### **Connect with me at**   
+<br>
 <p align="left">
-<a href="mailto:mzfrxec@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/muzaffarshaikh/muzaffarshaikh/main/social-icons/gmail.svg" alt="_muzaffarshaikh" height="30" width="35" /></a>
-<a href="https://www.twitter.com/_muzaffarshaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/muzaffarshaikh/muzaffarshaikh/main/social-icons/twitter.svg" alt="_muzaffarshaikh" height="30" width="40" /></a>
-<a href="https://www.facebook.com/muzaffar.shaikh.10004" target="blank"><img align="center" src="https://raw.githubusercontent.com/muzaffarshaikh/muzaffarshaikh/main/social-icons/facebook.svg" alt="_muzaffarshaikh" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/muzaffarshaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/muzaffarshaikh/muzaffarshaikh/main/social-icons/linkedin.svg" alt="muzaffarshaikh" height="30" width="40" /></a>
-<a href="https://www.stackoverflow.com/users/12059893/muzaffar-shaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/muzaffarshaikh/muzaffarshaikh/main/social-icons/stack-overflow.svg" alt="12059893" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_muzaffarshaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/muzaffarshaikh/muzaffarshaikh/main/social-icons/instagram.svg" alt="_muzaffarshaikh" height="30" width="40" /></a>
+<a href="mailto:mzfrxec@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/muzaffarshaikh/muzaffarshaikh/main/assets/social/gmail.svg" alt="_muzaffarshaikh" height="30" width="35" /></a>
+<a href="https://www.twitter.com/_muzaffarshaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/muzaffarshaikh/muzaffarshaikh/main/assets/social/twitter.svg" alt="_muzaffarshaikh" height="30" width="40" /></a>
+<a href="https://www.facebook.com/muzaffar.shaikh.10004" target="blank"><img align="center" src="https://raw.githubusercontent.com/muzaffarshaikh/muzaffarshaikh/main/assets/social/facebook.svg" alt="_muzaffarshaikh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muzaffarshaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/muzaffarshaikh/muzaffarshaikh/main/assets/social/linkedin.svg" alt="muzaffarshaikh" height="30" width="40" /></a>
+<a href="https://www.stackoverflow.com/users/12059893/muzaffar-shaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/muzaffarshaikh/muzaffarshaikh/main/assets/social/stack-overflow.svg" alt="12059893" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_muzaffarshaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/muzaffarshaikh/muzaffarshaikh/main/assets/social/instagram.svg" alt="_muzaffarshaikh" height="30" width="40" /></a>
+
+
 
