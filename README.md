@@ -62,8 +62,10 @@ Currently working as a Junior Software Developer, mainly focused in Back-End Dev
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
+<a href="mailto:mzfrxec@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/muzaffarshaikh/muzaffarshaikh/main/social-icons/gmail.svg" alt="_muzaffarshaikh" height="30" width="35" /></a>
 <a href="https://www.twitter.com/_muzaffarshaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/muzaffarshaikh/muzaffarshaikh/main/social-icons/twitter.svg" alt="_muzaffarshaikh" height="30" width="40" /></a>
 <a href="https://www.facebook.com/muzaffar.shaikh.10004" target="blank"><img align="center" src="https://raw.githubusercontent.com/muzaffarshaikh/muzaffarshaikh/main/social-icons/facebook.svg" alt="_muzaffarshaikh" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/muzaffarshaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/muzaffarshaikh/muzaffarshaikh/main/social-icons/linkedin.svg" alt="muzaffarshaikh" height="30" width="40" /></a>
 <a href="https://www.stackoverflow.com/users/12059893/muzaffar-shaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/muzaffarshaikh/muzaffarshaikh/main/social-icons/stack-overflow.svg" alt="12059893" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_muzaffarshaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/muzaffarshaikh/muzaffarshaikh/main/social-icons/instagram.svg" alt="_muzaffarshaikh" height="30" width="40" /></a>
+
