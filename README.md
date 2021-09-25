@@ -69,8 +69,7 @@ Currently working as a Junior Software Developer, mainly focused in Back-End Dev
 
 <br>
 
-### **Connect with me at**   
-<br>
+### **Connect with me at**
 <p align="left">
 <a href="mailto:mzfrxec@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/muzaffarshaikh/muzaffarshaikh/main/assets/social/gmail.svg" alt="_muzaffarshaikh" height="30" width="35" /></a>
 <a href="https://www.twitter.com/_muzaffarshaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/muzaffarshaikh/muzaffarshaikh/main/assets/social/twitter.svg" alt="_muzaffarshaikh" height="30" width="40" /></a>
