@@ -1,13 +1,7 @@
 <img src="assets\svg\hello-developers.svg">
 
 A Software Developer by profession, from India.   
-Currently working as a Junior Software Developer, mainly focused in Back-End Development.  
-<br>
-
-### **Qualifications**
-
-* ***BSc. CS*** - Bachelor's in Computer Science.
-* ***MSc. IT*** - Master's in Information Technology.
+Currently working as a Junior Software Developer, mainly focused in Back-End Development.
 
 <br>
 
