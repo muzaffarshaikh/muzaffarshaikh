@@ -52,6 +52,7 @@ Currently working as a Junior Software Developer, mainly focused in Back-End Dev
 ![Blender](https://img.shields.io/static/v1?style=for-the-badge&message=Blender&color=F5792A&logo=Blender&logoColor=FFFFFF&label=)
 ![Android Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Android+Studio&color=3DDC84&logo=Android+Studio&logoColor=FFFFFF&label=)
 ![semantic-release](https://img.shields.io/static/v1?style=for-the-badge&message=semantic-release&color=494949&logo=semantic-release&logoColor=FFFFFF&label=)
+![Express](https://img.shields.io/static/v1?style=for-the-badge&message=Express&color=494949&logo=Express&logoColor=FFFFFF&label=)
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
