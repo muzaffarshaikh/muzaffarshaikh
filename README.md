@@ -78,6 +78,11 @@ Currently working as a Junior Software Developer, mainly focused in Back-End Dev
 <a href="https://www.linkedin.com/in/muzaffarshaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/muzaffarshaikh/muzaffarshaikh/main/assets/social/linkedin.svg" alt="muzaffarshaikh" height="30" width="40" /></a>
 <a href="https://www.stackoverflow.com/users/12059893/muzaffar-shaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/muzaffarshaikh/muzaffarshaikh/main/assets/social/stack-overflow.svg" alt="12059893" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_muzaffarshaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/muzaffarshaikh/muzaffarshaikh/main/assets/social/instagram.svg" alt="_muzaffarshaikh" height="30" width="40" /></a>
+  
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="muzaffarshaikh" data-version="v1">
+  <a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/muzaffarshaikh?trk=profile-badge">Muzaffar Shaikh</a>
+</div>
+              
 
 
 
