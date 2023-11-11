@@ -1,7 +1,7 @@
 <img src="assets\svg\hello-developers.svg">
 
-A Software Developer by profession, from India.   
-Currently working as a Junior Software Developer, mainly focused in Back-End Development.
+A developer by profession, from India.   
+Currently working as a Software Developer, mainly focused in Back-End Development.
 
 <br>
 
@@ -55,6 +55,7 @@ Currently working as a Junior Software Developer, mainly focused in Back-End Dev
 ![Blender](https://img.shields.io/static/v1?style=for-the-badge&message=Blender&color=F5792A&logo=Blender&logoColor=FFFFFF&label=)
 ![Android Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Android+Studio&color=3DDC84&logo=Android+Studio&logoColor=FFFFFF&label=)
 ![semantic-release](https://img.shields.io/static/v1?style=for-the-badge&message=semantic-release&color=494949&logo=semantic-release&logoColor=FFFFFF&label=)  
+![EDI](https://img.shields.io/static/v1?style=for-the-badge&message=JSON&color=000000&logo=JSON&logoColor=FFFFFF&label=)
 <br>
 
 ### **Github Stats**
