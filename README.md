@@ -1,7 +1,6 @@
 <img src="assets\svg\hello-developers.svg">
 
 A developer by profession, from India.   
-Currently working as a Software Developer, mainly focused in Back-End Development.
 
 <br>
 
@@ -54,8 +53,7 @@ Currently working as a Software Developer, mainly focused in Back-End Developmen
 ![Eclipse+IDE](https://img.shields.io/static/v1?style=for-the-badge&message=Eclipse+IDE&color=2C2255&logo=Eclipse+IDE&logoColor=FFFFFF&label=)
 ![Blender](https://img.shields.io/static/v1?style=for-the-badge&message=Blender&color=F5792A&logo=Blender&logoColor=FFFFFF&label=)
 ![Android Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Android+Studio&color=3DDC84&logo=Android+Studio&logoColor=FFFFFF&label=)
-![semantic-release](https://img.shields.io/static/v1?style=for-the-badge&message=semantic-release&color=494949&logo=semantic-release&logoColor=FFFFFF&label=)  
-![EDI](https://img.shields.io/static/v1?style=for-the-badge&message=JSON&color=000000&logo=JSON&logoColor=FFFFFF&label=)
+![semantic-release](https://img.shields.io/static/v1?style=for-the-badge&message=semantic-release&color=494949&logo=semantic-release&logoColor=FFFFFF&label=)
 <br>
 
 ### **Github Stats**
