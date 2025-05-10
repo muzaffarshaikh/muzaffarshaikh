@@ -7,6 +7,8 @@ I'm a Senior Backend Engineer passionate about building robust, scalable systems
 
 This is my "off-duty" GitHub — kind of like my weekend garage for tinkering with ideas and side projects. The serious, high-impact stuff? That lives over on my corporate GitHub, where the commits are cleaner, the pipelines stricter, and the code reviews... more intense. Think of this space as a cozy workshop where I break things for fun before fixing them for real.
 
+When I'm not coding/engineering stuff, you can find me attempting to have deep conversations with cats (they're terrible at answering), pretending I’m a motorbike racer, binge-watching films, TV shows, or anime. And of course, I'm always tweaking my desk setup because - THERE IS ALWAYS ROOM FOR ONE MORE MONITOR.
+
 ## Main skills
 [![My Skills](https://skillicons.dev/icons?i=nodejs,js,ts,git,mongodb,mysql,java,express,jest,jenkins,html,cloudflare,aws,express,nest,github,vercel,vitest,py,docker,postgres,postman,windows,apple,vscode,redis,kafka)](https://skillicons.dev)
 
