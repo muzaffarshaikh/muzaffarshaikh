@@ -38,11 +38,11 @@ When I'm not coding/engineering stuff, you can find me attempting to have deep c
 ### Connect with me!
 <p align="left">
 <a href="mailto:mzfrxec@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/muzaffarshaikh/muzaffarshaikh/main/assets/social/gmail.svg" alt="_muzaffarshaikh" height="30" width="35" /></a>
-<a href="https://www.twitter.com/_muzaffarshaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/muzaffarshaikh/muzaffarshaikh/main/assets/social/twitter.svg" alt="_muzaffarshaikh" height="30" width="40" /></a>
+<!-- <a href="https://www.twitter.com/_muzaffarshaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/muzaffarshaikh/muzaffarshaikh/main/assets/social/twitter.svg" alt="_muzaffarshaikh" height="30" width="40" /></a> -->
 <a href="https://www.facebook.com/muzaffar.shaikh.10004" target="blank"><img align="center" src="https://raw.githubusercontent.com/muzaffarshaikh/muzaffarshaikh/main/assets/social/facebook.svg" alt="_muzaffarshaikh" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/muzaffarshaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/muzaffarshaikh/muzaffarshaikh/main/assets/social/linkedin.svg" alt="muzaffarshaikh" height="30" width="40" /></a>
 <a href="https://www.stackoverflow.com/users/12059893/muzaffar-shaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/muzaffarshaikh/muzaffarshaikh/main/assets/social/stack-overflow.svg" alt="12059893" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_muzaffarshaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/muzaffarshaikh/muzaffarshaikh/main/assets/social/instagram.svg" alt="_muzaffarshaikh" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mzfrshk" target="blank"><img align="center" src="https://raw.githubusercontent.com/muzaffarshaikh/muzaffarshaikh/main/assets/social/instagram.svg" alt="_muzaffarshaikh" height="30" width="40" /></a>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="footer"/>
